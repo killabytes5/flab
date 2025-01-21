@@ -7,7 +7,7 @@
   </div>
 
 # ReActor
-Plugin ReActor untuk Stable Diffusion [19/01/2025] - Work
+Plugin ReActor untuk Stable Diffusion - Work
 
 ## Automatic1111/Stable-Diffusion-WebUI
 
