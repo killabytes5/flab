@@ -1,4 +1,9 @@
+<div align="right">
 
+<a href="README.md"><img src="https://flagcdn.com/w40/gb.png" width="25" alt="English"></a> |
+<a href="README-ID"><img src="https://flagcdn.com/w40/id.png" width="20" alt="Indonesian"></a>
+
+</div>
 
 <div align="center">
 
